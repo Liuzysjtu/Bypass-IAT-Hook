@@ -1,0 +1,8 @@
+﻿  Building 'ByIATHook' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DrvMain.cpp
+  ByIATHook.vcxproj -> D:\work\repo\ByIATHook\x64\Release\ByIATHook.sys
+  Done Adding Additional Store
+  Successfully signed: D:\work\repo\ByIATHook\x64\Release\ByIATHook.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
